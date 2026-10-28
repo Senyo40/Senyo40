@@ -41,7 +41,7 @@
 ###
 
 <div data-importer="stats" align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=senyo68&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=D14B2F&fire=D14B2F&ring=D14B2F&sideLabels=D14B2F&currStreakLabel=D14B2F" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=senyo40&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=D14B2F&fire=D14B2F&ring=D14B2F&sideLabels=D14B2F&currStreakLabel=D14B2F" alt="GitHub Streak" /></a>
 </div>
 
 ###
