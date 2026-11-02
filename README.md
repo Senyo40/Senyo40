@@ -44,7 +44,7 @@ Previous icons
 ###
 
 <div data-importer="stats" align="left">
-	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=senyo40&layout=compact&title_color=D14B2F&border_color=D14B2F&bg_color=0D1117&border_radius=10" alt="Top Languages" />
+	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=senyo40&layout=compact&title_color=F0F6FC&border_color=F0F6FC&bg_color=0D1117&border_radius=10" alt="Top Languages" />
 <!--
 Previous Stats : 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=senyo40&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=D14B2F&fire=D14B2F&ring=D14B2F&sideLabels=D14B2F&currStreakLabel=D14B2F" alt="GitHub Streak" /></a>
