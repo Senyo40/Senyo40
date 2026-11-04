@@ -53,3 +53,9 @@ Previous Stats :
 </div>
 
 ###
+
+<h3 data-importer="text" align="left">📚 My Projects :</h3>
+
+<p data-importer="text" align="left">
+- <a href="https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=">42 Projects</a>
+</p>
