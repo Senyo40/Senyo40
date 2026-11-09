@@ -36,15 +36,15 @@ Previous icons
 
 <h3 data-importer="text" align="left">📚 Projects</h3>
 
-| Project Name | Description | Link |
-| :--- | :---: | :---: |
-| **42 Projects** | Projects I completed during the 42 Next cursus | [See projects](https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=) |
+| Project Name | Description | Language | Link |
+| :--- | :---: | :---: | | :---: |
+| **42 Projects** | Projects I completed during the 42 Next cursus | C | [See projects](https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=) |
 
 ---
 
 <h3 data-importer="text" align="left">📊 Statistics</h3>
 <div data-importer="stats" align="left">
-	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=senyo40&layout=compact&title_color=F0F6FC&border_color=F0F6FC&bg_color=0D1117&border_radius=10" alt="Top Languages" />
+	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=senyo40&layout=compact&title_color=cb410b&border_color=cb410b&bg_color=0D1117&border_radius=10" alt="Top Languages" />
 <!--
 Previous Stats : 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=senyo40&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=D14B2F&fire=D14B2F&ring=D14B2F&sideLabels=D14B2F&currStreakLabel=D14B2F" alt="GitHub Streak" /></a>
