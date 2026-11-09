@@ -4,7 +4,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">💫  About Me</h3>
+<h3 data-importer="text" align="left">💫  About Me </h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img alt="C Badge" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c">
   <img alt="NJS Badge" src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=node.js">
   <img alt="Python Badge" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python">
@@ -43,7 +43,7 @@ Previous icons
 
 ###
 
-<div data-importer="stats" align="left">
+<div data-importer="stats" align="center">
 	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=senyo40&layout=compact&title_color=F0F6FC&border_color=F0F6FC&bg_color=0D1117&border_radius=10" alt="Top Languages" />
 <!--
 Previous Stats : 
@@ -52,10 +52,11 @@ Previous Stats :
 
 </div>
 
-###
+---
 
 <h3 data-importer="text" align="left">📚 My Projects :</h3>
 
-<p data-importer="text" align="left">
-- <a href="https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=">42 Projects</a>
+| Nom du Projet | Description | Lien |
+| :--- | :---: | :---: |
+| **42 Projects** | Projects I completed during the 42 Next cursus | [See projects](https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=) |
 </p>
