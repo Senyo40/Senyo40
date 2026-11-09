@@ -2,15 +2,15 @@
   <img data-importer="image" height="25" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif"/>
 </h1>
 
----
+###
 
 <h3 data-importer="text" align="left">💫  About Me</h3>
 
----
+###
 
 <p data-importer="text" align="left">- 🔭 I’m currently in the 42 Next cursus.</p>
 
-###
+---
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
@@ -37,7 +37,7 @@ Previous icons
 -->
 </div>
 
-###
+---
 
 <h3 data-importer="text" align="left">📊 My Stats :</h3>
 
