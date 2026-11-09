@@ -37,7 +37,7 @@ Previous icons
 <h3 data-importer="text" align="left">📚 Projects</h3>
 
 | Project Name | Description | Language | Link |
-| :--- | :---: | :---: | | :---: |
+| :--- | :---: | :---: | :---: |
 | **42 Projects** | Projects I completed during the 42 Next cursus | C | [See projects](https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=) |
 
 ---
