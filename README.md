@@ -9,7 +9,7 @@
 ---
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
-<div data-importer="techs" align="center"
+<div data-importer="techs" align="center">
   <img alt="C Badge" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c">
   <img alt="NodeJS Badge" src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=node.js">
   <img alt="Python Badge" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python">
