@@ -35,7 +35,6 @@ Previous icons
 ---
 
 <h3 data-importer="text" align="left">📚 Projects</h3>
-
 | Project | Description | Language |
 | :---: | :---: | :---: |
 | [42 Projects](https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=) | Projects I completed during the 42 Next cursus | C |
@@ -43,7 +42,7 @@ Previous icons
 ---
 
 <h3 data-importer="text" align="left">📊 Statistics</h3>
-<div data-importer="stats" align="left">
+<div data-importer="stats" align="center">
 	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=senyo40&layout=compact&title_color=F0F6FC&border_color=F0F6FC&bg_color=0D1117&border_radius=10" alt="Top Languages" />
 <!--
 Previous Stats : 
