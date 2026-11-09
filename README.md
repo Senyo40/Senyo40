@@ -9,12 +9,12 @@
 
 ### 🛠 $\color{#cb410b}{\text{Language and tools}}$
 <div data-importer="techs" align="center">
-  <img alt="C Badge" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=cb410b">
-  <img alt="NodeJS Badge" src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=cb410b">
-  <img alt="Python Badge" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=cb410b">
-  <img alt="Sqlite Badge" src="https://img.shields.io/badge/SQLITE-0D1117?style=for-the-badge&logo=sqlite&logoColor=cb410b">
-  <img alt="Git Badge" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=cb410b">
-  <img alt="Ubuntu Badge" src="https://img.shields.io/badge/UBUNTU-0D1117?style=for-the-badge&logo=ubuntu&logoColor=cb410b">
+  <img alt="C Badge" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c">
+  <img alt="NodeJS Badge" src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=node.js">
+  <img alt="Python Badge" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python">
+  <img alt="Sqlite Badge" src="https://img.shields.io/badge/SQLITE-0D1117?style=for-the-badge&logo=sqlite">
+  <img alt="Git Badge" src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=gitb">
+  <img alt="Ubuntu Badge" src="https://img.shields.io/badge/UBUNTU-0D1117?style=for-the-badge&logo=ubuntu">
 </div>
 
 ---
@@ -23,7 +23,7 @@
 
 | $\color{#cb410b}{\text{Project Name}}$ | $\color{#cb410b}{\text{Description}}$ | $\color{#cb410b}{\text{Language}}$ | $\color{#cb410b}{\text{Link}}$ |
 | :--- | :---: | :---: | :---: |
-| $\color{#cb410b}{\textbf{42 Projects}}$ | $\color{#cb410b}{\text{Projects I completed during the 42 Next cursus}}$ | $\color{#cb410b}{\text{C}}$ | [$\color{#cb410b}{\text{See projects}}$](https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=) |
+| $\color{#cb410b}{\textbf{42 Projects}}$ | $\color{#cb410b}{\text{Projects I completed during the 42 Next cursus}}$ | $\color{#cb410b}{\text{C}}$ | [See projects](https://github.com/Senyo40?tab=repositories&q=42_&type=public&language=&sort=) |
 
 ---
 
